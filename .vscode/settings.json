@@ -1,0 +1,8 @@
+{
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"javascript.format.semicolons": "insert",
+	"prettier.vueIndentScriptAndStyle": true,
+	"auto-rename-tag.activationOnLanguage": [
+		"*"
+	]
+}
