@@ -55,7 +55,7 @@ const App = () => {
 			method: "DELETE",
 		})
 
-		res.status === 2000
+		res.status === 200
 			? setTasks(tasks.filter((task) => task.id !== id))
 			: alert("Error Deleting This Task")
 	}
